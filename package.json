@@ -1,6 +1,6 @@
 {
   "name": "codex-bridge-chatgpt",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Verified Codex-to-ChatGPT Web reasoning handoffs with local edits, tests, and receipts.",
   "main": "src/index.js",
   "scripts": {
